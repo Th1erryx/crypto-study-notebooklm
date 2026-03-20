@@ -1,0 +1,8 @@
+# arquivos temporários
+*.log
+
+# sistema
+.DS_Store
+
+# PDFs grandes (opcional)
+sources/*.pdf
