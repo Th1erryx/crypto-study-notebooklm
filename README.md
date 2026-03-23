@@ -34,3 +34,77 @@ A IA foi utilizada como ferramenta de apoio, não como fonte única de verdade.
 ---
 
 ## 📁 Estrutura do Projeto
+crypto-study-notebooklm/
+│
+├── docs/
+│ ├── resumo.md
+│ ├── glossario.md
+│ ├── perguntas.md
+│ ├── respostas.md
+│ ├── objetivos.md
+│ ├── metodologia.md
+│
+├── sources/
+│ ├── fonte1.md
+│ ├── fonte2.md
+│ ├── fonte3.md
+│
+├── prompts/
+│ ├── prompt_inicial.md
+│ ├── prompt_variacoes.md
+│
+├── insights/
+│ ├── analise_critica.md
+│
+└── README.md
+
+
+---
+
+## 📚 Conteúdo Desenvolvido
+
+- ✔ Resumo estruturado sobre criptomoedas  
+- ✔ Glossário de termos técnicos  
+- ✔ Perguntas estratégicas de estudo  
+- ✔ Respostas baseadas em fontes  
+- ✔ Prompts reutilizáveis  
+- ✔ Análise crítica do uso de IA  
+
+---
+
+## 🤖 Uso da Inteligência Artificial
+
+O NotebookLM foi utilizado para:
+
+- Gerar respostas baseadas em fontes selecionadas
+- Apoiar a organização do conteúdo
+- Facilitar a aprendizagem ativa
+
+### ⚠️ Limitações
+
+- Dependência da qualidade das fontes
+- Possível viés nas respostas
+- Necessidade de validação externa
+
+---
+
+## 🚀 Resultado
+
+Este projeto resultou em um mini guia de estudo estruturado, demonstrando:
+
+- Curadoria de conteúdo  
+- Organização de conhecimento  
+- Engenharia de prompts  
+- Pensamento crítico  
+
+---
+
+## 📌 Observação
+
+Este projeto tem fins educacionais e não constitui recomendação financeira.
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por Thierry Fontes como prática de estudo em tecnologia
