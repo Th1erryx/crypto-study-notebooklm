@@ -108,3 +108,10 @@ Este projeto tem fins educacionais e não constitui recomendação financeira.
 ## 👨‍💻 Autor
 
 Desenvolvido por Thierry Fontes como prática de estudo em tecnologia
+
+## 💡 Aprendizados
+
+- Uso de IA como ferramenta de estudo
+- Organização de conhecimento
+- Engenharia de prompts
+- Uso de Git e GitHub em projetos
